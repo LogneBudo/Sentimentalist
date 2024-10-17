@@ -2,7 +2,7 @@
 
 Sentimentalist is a simple C# console application that uses the `VaderSharp2` library to perform sentiment analysis on a given text. The application analyzes the text and provides scores for positive, negative, and neutral sentiments.
 
-![API Management](Sentimentalist/ner.jpg)
+![NER](NER.jpg)
 
 ## Features
 
